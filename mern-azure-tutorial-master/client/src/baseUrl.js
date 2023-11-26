@@ -1,3 +1,3 @@
-const baseUrl = "http://localhost:3001";
+const baseUrl = "https://siteweb-cloud.azurewebsites.net";
 
 export default baseUrl;
